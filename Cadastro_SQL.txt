@@ -45,11 +45,11 @@ INSERT INTO usuarios (nome, email) VALUES
 ('Madonna', 'madonna@example.com'),
 ('Chuck Berry', 'chuck.berry@example.com'),
 ('Bob Dylan', 'bob.dylan@example.com'),
-('Sting', 'sting@example.com'),
-('Freddy King', 'freddy.king@example.com'),
+('Nikki Lane', 'nikki.lane@example.com'),
+('The Weeknd', 'the.weeknd@example.com'),
 ('B.B. King', 'bb.king@example.com'),
 ('Eric Clapton', 'eric.clapton@example.com'),
-('Prince', 'prince@example.com'),
+('Lana Del Rey', 'lana.delrey@example.com'),
 ('Aretha Franklin', 'aretha.franklin@example.com'),
 ('Ray Charles', 'ray.charles@example.com'),
 ('Frank Sinatra', 'frank.sinatra@example.com'),
@@ -99,11 +99,11 @@ INSERT INTO enderecos (logradouro, numero, usuario_id) VALUES
 ('Rua Madonna', '888', 16), -- Madonna
 ('Avenida Chuck Berry', '999', 17), -- Chuck Berry
 ('Rua Bob Dylan', '1011', 18), -- Bob Dylan
-('Avenida Sting', '1213', 19), -- Sting
-('Estrada Freddy King', '1415', 20), -- Freddy King
+('Rancho da Nikki', '1213', 19), -- Nikki Lane
+('The Hills', '1415', 20), -- The Weeknd
 ('Rua B.B. King', '1617', 21), -- B.B. King
 ('Avenida Eric Clapton', '1819', 22), -- Eric Clapton
-('Estrada Prince', '2021', 23), -- Prince
+('Ocean Boulevard', '2023', 23), -- Lana Del Rey
 ('Boulevard Aretha Franklin', '2223', 24), -- Aretha Franklin
 ('Rua Ray Charles', '2425', 25), -- Ray Charles
 ('Avenida Frank Sinatra', '2627', 26), -- Frank Sinatra
